@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tao do Senra - Technology</title><link href="/" rel="alternate"></link><link href="/feeds/technology.atom.xml" rel="self"></link><id>/</id><updated>2017-05-29T13:17:00-04:00</updated><entry><title>GitHub Pages and Pelican</title><link href="/github-pages-and-pelican.html" rel="alternate"></link><published>2017-05-29T13:17:00-04:00</published><updated>2017-05-29T13:17:00-04:00</updated><author><name>Rodrigo Senra</name></author><id>tag:None,2017-05-29:/github-pages-and-pelican.html</id><summary type="html">&lt;p&gt;After re-purposing Trac's Wiki as the basis for my personal website http://rodrigo.senra.nom.br for more than 10 years,
+I dediced to migrate to a statically generated site hosted on Github Pages and using Pelican as the engine.
+It was a straightforward process, so I strongly recommend these …&lt;/p&gt;</summary><content type="html">&lt;p&gt;After re-purposing Trac's Wiki as the basis for my personal website http://rodrigo.senra.nom.br for more than 10 years,
+I dediced to migrate to a statically generated site hosted on Github Pages and using Pelican as the engine.
+It was a straightforward process, so I strongly recommend these tools. &lt;/p&gt;</content></entry></feed>
